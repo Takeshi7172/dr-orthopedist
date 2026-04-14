@@ -1,0 +1,13 @@
+export { HeroSection } from "./HeroSection";
+export { ProblemSection } from "./ProblemSection";
+export { DiagnosisSection } from "./DiagnosisSection";
+export { DoctorSection } from "./DoctorSection";
+export { MakoSection } from "./MakoSection";
+export { BenefitsSection } from "./BenefitsSection";
+export { ProcessSection } from "./ProcessSection";
+export { RehabSection } from "./RehabSection";
+export { FAQSection } from "./FAQSection";
+export { PricingSection } from "./PricingSection";
+export { TestimonialsSection } from "./TestimonialsSection";
+export { CTASection } from "./CTASection";
+export { ContactsSection } from "./ContactsSection";
