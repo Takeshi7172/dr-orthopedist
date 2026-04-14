@@ -35,9 +35,8 @@ const contactInfo = [
   },
   {
     icon: Clock,
-    title: "Часы приёма",
+    title: "Приём",
     value: "По предварительной записи",
-    subtext: "Пн–Пт: 9:00 – 18:00",
   },
 ];
 
