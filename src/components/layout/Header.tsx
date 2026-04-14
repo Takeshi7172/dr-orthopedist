@@ -95,9 +95,9 @@ export function Header() {
             size="sm"
             className="hidden sm:flex btn-primary h-10"
           >
-            <a href="tel:+77001234567">
+            <a href="tel:+77779951921">
               <Phone className="mr-2 h-4 w-4" />
-              <span className="hidden md:inline">+7 (700) 123-45-67</span>
+              <span className="hidden md:inline">+7 (777) 995-19-21</span>
               <span className="md:hidden">Позвонить</span>
             </a>
           </Button>
@@ -134,14 +134,14 @@ export function Header() {
 
                 <div className="mt-4 pt-4 border-t space-y-3">
                   <Button asChild className="w-full btn-primary h-12">
-                    <a href="tel:+77001234567">
+                    <a href="tel:+77779951921">
                       <Phone className="mr-2 h-5 w-5" />
-                      +7 (700) 123-45-67
+                      +7 (777) 995-19-21
                     </a>
                   </Button>
                   <Button asChild variant="outline" className="w-full h-12 border-green-500 text-green-600">
                     <a
-                      href="https://wa.me/77001234567"
+                      href="https://wa.me/77779951921"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
